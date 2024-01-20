@@ -64,7 +64,7 @@ Once installed, you can import the package and use its functions. Each function 
 
 Here are some examples demonstrating the usage of FinancialPy:
 
-````import FinancialPy as finpy
+```import FinancialPy as finpy
 
 # Example 1: Present Value Calculation
 pv_value = finpy.pv_one(10000, 0.10, 5)
@@ -80,12 +80,13 @@ print(f"Present Value of Annuity: {pv_annuity}")
 
 # Example 4: Ordinary Annuity Future Value
 fv_annuity = finpy.fv_ordinary_annuity(10000, 0.10, 30)
-print(f"Future Value of Annuity: {fv_annuity}")```
-
+print(f"Future Value of Annuity: {fv_annuity}")
+```
 
 ## Contribution
+
 Contributions to the FinancialPy package are welcome. Feel free to submit bug reports, feature requests, or pull requests on the GitHub repository.
 
 ## License
+
 ** This project is licensed under the MIT License - see the LICENSE file for details.**
-````
