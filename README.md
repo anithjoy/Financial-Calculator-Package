@@ -58,7 +58,7 @@ Once installed, you can import the package and use its functions. Each function 
 -Use case:
 *Determine the future value of an ordinary annuity.
 
-...and many more
+**...and many more Functions**
 
 ## Examples
 
